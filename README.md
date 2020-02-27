@@ -1,5 +1,5 @@
 # Barf-bag-holder
-3D printable Barf bag holder for bedside table for sick bed. Created with Rhino 6.
+3D printable Barf bag holder for bedside table for healthcare bed. Created with Rhino 6.
 
 # Requirements:
 * 3D printer 

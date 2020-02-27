@@ -4,7 +4,6 @@
 # Requirements:
 * 3D printer 
 * Filament of your choice
-* 4 x 12mm M3 screws
 
 ## View
 ![Example](iso1.jpg)

@@ -6,13 +6,13 @@
 * Filament of your choice
 
 ## View
-![Example](iso1.jpg)
-![Example](iso2.jpg)
-![Example](side1.jpg)
-![Example](IMG_20200226_151145.jpg)
-![Example](IMG_20200226_151159.jpg)
-![Example](IMG_20200226_151219.jpg)
-![Example](IMG_20200226_151246.jpg)
-![Example](IMG_20200226_151258.jpg)
+<img src="iso1.jpg" width="500" align="center"> 
+<img src="iso2.jpg" width="500" align="center"> 
+<img src="side1.jpg" width="500" align="center"> 
+<img src="IMG_20200226_151145.jpg" width="500" align="center"> 
+<img src="IMG_20200226_151159.jpg" width="500" align="center"> 
+<img src="IMG_20200226_151219.jpg" width="500" align="center"> 
+<img src="IMG_20200226_151246.jpg" width="500" align="center"> 
+<img src="IMG_20200226_151258.jpg" width="500" align="center"> 
 
 
